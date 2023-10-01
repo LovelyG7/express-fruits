@@ -1,5 +1,5 @@
 // create an array of veggies
-const vegatables = [
+const veggies = [
   {
     name: "spinach",
     color: "green",
@@ -16,4 +16,4 @@ const vegatables = [
     readyToEat: false,
   }
 ];
-module.exports = vegatables;
+module.exports = veggies;
